@@ -1,0 +1,9 @@
+---
+bibliography: bibliography.bib
+documentclass: svjour3
+classoption: smallextended, twocolumn
+csl: international-journal-of-computer-vision.csl
+link-citations: true
+number-sections: true
+---
+
